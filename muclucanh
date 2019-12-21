@@ -1,0 +1,20 @@
+Hình 1.1 : Sơ đồ tổng quan của mô hình EFK 
+Hình 1.2 : Trước và sau khi sử dụng Fluentd
+Hình 1.3 : Logo của Elasticsearch
+Hình 1.4 : Các hệ thống lớn đang sử dụng Elasticsearch
+Hình 1.5 : Giao diện của Kibana
+Hình 1.6 : ELK vs EFK
+Hình 2.1 : File môi trường
+Hình 2.2 : Config Fluentd trong docker-compose.yml
+Hình 2.3 : Config Elasticsearch trong docker-compose.yml
+Hình 2.4 : Config kibana trong docker-compose.yml
+Hình 2.5 : Config cấu hình chung trong file fluentd.conf
+Hình 2.6 : Config các tag file fluentd.conf
+Hình 2.7 : Config format log cho cả những log nhận được từ elasticsearch file fluentd.conf
+Hình 2.8 : Macth trong file fluentd.conf
+Hình 2.9 : Kết quả khi trên kibana
+Hình 2.10 : Config loging trên service 
+Hình 3.1 : Thư viện logging maven
+Hình 3.2 : Log thủ công
+Hình 3.3 : Ví dụ 1 Exception trong code
+Hình 3.4 : Theo dõi Log chi tiết trên kibana
